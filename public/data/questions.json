@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which piece can move any number of squares diagonally?",
+        "options": ["Rook", "Knight", "Bishop", "Pawn"],
+        "answer": "Bishop"
+    },
+    {
+        "question": "What is it called when the king is not in check but cannot make a legal move?",
+        "options": ["Checkmate", "Draw", "Stalemate", "En Passant"],
+        "answer": "Stalemate"
+    },
+    {
+        "question": "Which piece is unique in its ability to jump over others?",
+        "options": ["Pawn", "Queen", "Knight", "King"],
+        "answer": "Knight"
+    },
+    {
+        "question": "What is the only move where two pieces are moved in the same turn?",
+        "options": ["Promotion", "Castling", "En Passant", "Checkmate"],
+        "answer": "Castling"
+    },
+    {
+        "question": "What is the term for a pawn reaching the opposite end of the board?",
+        "options": ["Promotion", "Castling", "Checkmate", "Check"],
+        "answer": "Promotion"
+    },
+    {
+        "question": "Which piece starts next to the king and queen and moves diagonally?",
+        "options": ["Rook", "Pawn", "Bishop", "Knight"],
+        "answer": "Bishop"
+    },
+    {
+        "question": "What happens when a pawn attacks an opponent's pawn as it moves two squares forward?",
+        "options": ["Checkmate", "Castling", "En Passant", "Promotion"],
+        "answer": "En Passant"
+    },
+    {
+        "question": "What is the most powerful piece on the chessboard?",
+        "options": ["King", "Queen", "Rook", "Bishop"],
+        "answer": "Queen"
+    },
+    {
+        "question": "What is it called when the king is under threat and has no escape?",
+        "options": ["Stalemate", "Checkmate", "Draw", "Fork"],
+        "answer": "Checkmate"
+    },
+    {
+        "question": "How many squares does the chessboard have?",
+        "options": ["64", "100", "81", "72"],
+        "answer": "64"
+    }
+]

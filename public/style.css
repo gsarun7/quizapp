@@ -1,0 +1,60 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    text-align: center; /* Ensures centered alignment for parent container */
+}
+
+/* Container for the quiz */
+#quiz-container {
+    max-width: 500px;
+    margin: 20px auto; /* Center container horizontally */
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: left; /* Left-align contents inside container */
+}
+
+/* Style for questions */
+#question {
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Style for options */
+label {
+    display: flex;
+    align-items: center; /* Vertically aligns radio button and text */
+    gap: 10px; /* Spacing between radio button and text */
+    margin-bottom: 15px; /* Spacing between options */
+    cursor: pointer;
+}
+
+label input[type="radio"] {
+    margin: 10px;
+}
+
+/* Center alignment for the submit button */
+#submit-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Center alignment for score */
+#score {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
